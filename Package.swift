@@ -1,5 +1,8 @@
 // swift-tools-version:5.5
-// The swift-tools-version declares the minimum version of Swift required to build this package.
+/*
+ * SPDX-FileCopyrightText: 2022 - Sebastian Ritter <bastie@users.noreply.github.com>
+ * SPDX-License-Identifier: Apache-2.0
+ */
 
 import PackageDescription
 
